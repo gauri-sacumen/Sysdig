@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: SysDig-connector
+Version: 1.0.0
+Summary: Connector to connect to Target system, get events and store it an file locally.
+Home-page: UNKNOWN
+Author: Sacumen
+Author-email: gauri.indani@sacumen.com
+Maintainer: Sacumen
+Maintainer-email: deepak.baraik@sacumen.com
+License: Private
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst
+
+UNKNOWN
+

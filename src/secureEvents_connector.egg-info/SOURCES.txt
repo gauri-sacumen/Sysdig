@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+src/secureEvents_connector.egg-info/PKG-INFO
+src/secureEvents_connector.egg-info/SOURCES.txt
+src/secureEvents_connector.egg-info/dependency_links.txt
+src/secureEvents_connector.egg-info/not-zip-safe
+src/secureEvents_connector.egg-info/top_level.txt
+src/secureEvents_connector/controller/client.py
+src/secureEvents_connector/controller/data.py
+src/secureEvents_connector/utils/__init__.py
+src/secureEvents_connector/utils/general.py

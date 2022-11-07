@@ -1,0 +1,7 @@
+secureEvents_connector :
+  base_url :
+  access_token :
+  from : 1666675800000000000
+  to : 1667367000000000000
+  limit: 10
+  store_filename : Sysdig
